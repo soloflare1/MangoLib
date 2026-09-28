@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "A handbook of agile software craftsmanship for writing better code.",
+    "category": "Tech",
+    "available_quantity": 5,
+    "image_url": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "2",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt, David Thomas",
+    "description": "Your journey to mastery in modern software development.",
+    "category": "Tech",
+    "available_quantity": 3,
+    "image_url": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "3",
+    "title": "Astrophysics for People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "description": "An essential guide to the universe, mind-expanding and accessible.",
+    "category": "Science",
+    "available_quantity": 8,
+    "image_url": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "4",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "description": "Explore how biology and history have defined us and enhanced our understanding.",
+    "category": "Story",
+    "available_quantity": 4,
+    "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "5",
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "description": "The big ideas behind reliable, scalable, and maintainable systems.",
+    "category": "Tech",
+    "available_quantity": 2,
+    "image_url": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "6",
+    "title": "Brief Answers to the Big Questions",
+    "author": "Stephen Hawking",
+    "description": "Hawking's final thoughts on the universe's biggest questions.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "7",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "A magical story about following your dreams and listening to your heart.",
+    "category": "Story",
+    "available_quantity": 10,
+    "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "8",
+    "title": "You Don't Know JS Yet",
+    "author": "Kyle Simpson",
+    "description": "Get deep into the core mechanisms of the JavaScript language.",
+    "category": "Tech",
+    "available_quantity": 7,
+    "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "9",
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "description": "A personal voyage exploring science, space, and human civilization.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "10",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A powerful tale of prejudice, justice, and human warmth.",
+    "category": "Story",
+    "available_quantity": 3,
+    "image_url": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "11",
+    "title": "Refactoring",
+    "author": "Martin Fowler",
+    "description": "Improving the design of existing code without changing its behavior.",
+    "category": "Tech",
+    "available_quantity": 2,
+    "image_url": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=500&auto=format&fit=crop&q=60"
+  },
+  {
+    "id": "12",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "description": "A classic work on evolutionary biology and natural selection.",
+    "category": "Science",
+    "available_quantity": 4,
+    "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=500&auto=format&fit=crop&q=60"
+  }
+]
