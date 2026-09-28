@@ -1,9 +1,10 @@
+
 export default function Footer() {
   return (
     <footer className="bg-slate-950 text-slate-400 border-t border-slate-800 py-12 mt-20">
       <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-3 gap-8">
         <div>
-          <h3 className="text-xl font-bold text-amber-500 mb-3">🥭 MangoLib</h3>
+          <h3 className="text-xl font-bold text-amber-500 mb-3">MangoLib</h3>
           <p className="text-sm leading-relaxed">
             Digitizing the traditional library experience with modern web development tools. Simple, accessible, and fast.
           </p>
