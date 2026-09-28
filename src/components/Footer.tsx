@@ -1,4 +1,5 @@
 
+
 export default function Footer() {
   return (
     <footer className="bg-slate-950 text-slate-400 border-t border-slate-800 py-12 mt-20">
@@ -27,7 +28,7 @@ export default function Footer() {
 
       </div>
       <div className="text-center text-xs text-slate-500 mt-10 border-t border-slate-900 pt-6">
-        © {new Date().getFullYear()} MangoLib Platform. All rights reserved.
+        &copy; {new Date().getFullYear()} MangoLib Platform. All rights reserved.
       </div>
     </footer>
   );
