@@ -5,7 +5,8 @@ import { useSession } from "@/lib/auth-client";
 import { useRouter } from "next/navigation";
 import { useEffect } from "react";
 
-export default function ProtectedRoute({ children }: { children: React.ReactNode }) {
+export default function ProtectedRoute({ children }: { children: React.ReactNode }) 
+{
   const { data: session, isPending } = useSession();
   const router = useRouter();
 
