@@ -8,11 +8,11 @@ import { useRouter } from "next/navigation";
 import toast from "react-hot-toast";
 
 export default function BookDetailsPage({ params }: { params: { id: string } }) {
-  const { id } = params;
+  const { id } = use(params);
   const { data: session } = useSession();
   const router = useRouter();
 
-  const book = booksData.find((b) => b.id === id);
+  const book = booksData.find((b) => String(b.id) === String(id));
   if (!book) {
     return <div className="text-center py-20 text-white">Book not found!</div>;
   }
