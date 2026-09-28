@@ -77,7 +77,8 @@ export default function LoginPage() {
 
         <div className="mt-6">
           <button
-            onClick={() => signIn.google()}
+            type="button"
+            onClick={() => signIn.social({ provider: "google", callbackURL: "/" } )}
             className="w-full bg-slate-700 hover:bg-slate-600 text-white font-medium py-2.5 rounded-lg transition border border-slate-600 flex items-center justify-center gap-2"
           >
             Sign in with Google
