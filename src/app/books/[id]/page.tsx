@@ -7,8 +7,13 @@ import { useSession } from "@/lib/auth-client";
 import { useRouter } from "next/navigation";
 import toast from "react-hot-toast";
 
-export default function BookDetailsPage({ params }: { params: { id: string } }) {
+
+export default function BookDetailsPage({ params ,
+}: {
+  params: Promise<{ id: string }>;
+}) {
   const { id } = use(params);
+
   const { data: session } = useSession();
   const router = useRouter();
 
