@@ -15,4 +15,4 @@
 - **Styling**: Tailwind CSS
 - **Authentication**: BetterAuth ( Google OAuth Provider)
 - **UI Components & Slider**: Swiper.js
-- **Deployment**: NVercel
+- **Deployment**: Vercel
